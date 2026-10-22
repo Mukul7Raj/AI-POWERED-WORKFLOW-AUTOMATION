@@ -1,0 +1,23 @@
+ACME CLOUD SERVICES LLC
+123 Innovation Drive, Suite 400
+San Francisco, CA 94105
+
+INVOICE #INV-2024-8921
+Invoice Date: 2024-10-15
+Due Date: 2024-11-15
+
+Billed To:
+TechCorp Global Inc.
+
+Description                        Qty     Unit Price     Total
+-----------------------------------------------------------------
+Kubernetes Enterprise Cluster        1      $1,250.00   $1,250.00
+Cloud Storage Volume (5TB)           1        $200.00     $200.00
+Dedicated Support Tier               1        $450.00     $450.00
+-----------------------------------------------------------------
+Subtotal:                                               $1,900.00
+Tax (8.5%):                                               $161.50
+FINAL TOTAL DUE:                                        $2,061.50
+
+Payment received via Corporate Card ending in 4128.
+Thank you for your business!

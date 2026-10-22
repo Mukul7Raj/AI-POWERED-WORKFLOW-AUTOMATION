@@ -1,0 +1,14 @@
+Amazon Web Services, Inc.
+P.O. Box 84023, Seattle, WA 98124-8423
+
+TAX INVOICE
+Invoice Number: 984712039
+Invoice Date: October 20, 2024
+Account Number: 1234-5678-9012
+
+Service: Elastic Compute Cloud (EC2)
+Amount: $342.18
+Currency: USD
+
+Status: PAID IN FULL
+Transaction ID: tx_99812736412
